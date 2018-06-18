@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Balloons</string>
+
+    <string name="score_label">Score:</string>
+    <string name="max_number">99</string>
+    <string name="play_game">Play Game</string>
+</resources>
